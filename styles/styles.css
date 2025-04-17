@@ -1,0 +1,22 @@
+h1{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: xx-large;
+    color: blue;
+}
+.birthdate{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: x-large;
+}
+button{
+    background-color: aqua;  
+}
+p{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: large;
+}
+h3{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: xx-large;
+    color: blueviolet;
+}
